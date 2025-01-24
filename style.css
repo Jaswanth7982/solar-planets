@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+header {
+    background-color: #111;
+    padding: 20px;
+}
+
+h1 {
+    color: #FFD700;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+
+.planet {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #444;
+    border-radius: 10px;
+    background-color: #222;
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #111;
+}
